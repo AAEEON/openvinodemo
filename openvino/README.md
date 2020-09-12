@@ -11,4 +11,4 @@ sh ./performance.sh
 ```
 if error,debug the path
 
-need fix path problem
+need fix path issue
